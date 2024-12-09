@@ -1,3 +1,14 @@
+# Lista de tareas modo Kanban
+
+## Modo Kanban
+
+![kanban](https://github.com/user-attachments/assets/310290d8-4044-4f36-bc02-263f030d5816)
+
+## Modo Calendario
+
+![calendario](https://github.com/user-attachments/assets/7840c115-f9d4-4118-984d-167ab9d340a4)
+
+
 [![Build Status](https://runbot.odoo.com/runbot/badge/flat/1/master.svg)](https://runbot.odoo.com/runbot)
 [![Tech Doc](https://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/documentation/17.0)
 [![Help](https://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
