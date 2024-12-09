@@ -1,5 +1,8 @@
 # Lista de tareas modo Kanban
+Modifica el ejemplo más sencillo de la lista de tareas de modo que:
 
+Tenga una nueva vista para ver las tareas en formato “Kanban”.
+Modifica las tareas para tener una fecha asignada y crea una nueva vista para ver en una vista “Calendario” la fecha asignada.
 ## Modo Kanban
 
 ![kanban](https://github.com/user-attachments/assets/310290d8-4044-4f36-bc02-263f030d5816)
